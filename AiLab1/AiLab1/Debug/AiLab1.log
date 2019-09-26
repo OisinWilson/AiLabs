@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\oisin\Desktop\AiLab1\AiLab1\Game.cpp(5,113): warning C4244:  'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\oisin\Desktop\AiLab1\AiLab1\Game.cpp(5,65): warning C4244:  'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  AiLab1.vcxproj -> C:\Users\oisin\Desktop\AiLab1\Debug\AiLab1.exe
